@@ -4,5 +4,9 @@ C Programming
 C++
 Java
 
+Python
+Golang
+
+Done my changes.
 
 Final copy
